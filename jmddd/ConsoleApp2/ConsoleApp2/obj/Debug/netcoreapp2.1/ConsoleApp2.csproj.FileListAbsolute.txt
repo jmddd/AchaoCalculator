@@ -1,0 +1,11 @@
+E:\新建文件夹\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.deps.json
+E:\新建文件夹\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.json
+E:\新建文件夹\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.dev.json
+E:\新建文件夹\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.dll
+E:\新建文件夹\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.pdb
+E:\新建文件夹\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csprojAssemblyReference.cache
+E:\新建文件夹\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\新建文件夹\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+E:\新建文件夹\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
+E:\新建文件夹\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
+E:\新建文件夹\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
